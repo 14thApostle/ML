@@ -36,7 +36,7 @@ I would highly recommend using git, not only for this tutorial, but for the
 general betterment of your life.  Once git is installed, you can clone the
 material in this tutorial by using the git address shown above:
 
-    git clone git://github.com/jakevdp/sklearn_tutorial.git
+    git clone https://github.com/14thApostle/ML.git
 
 If you can't or don't want to install git, there is a link above to download
 the contents of this repository as a zip file.  I may make minor changes to
