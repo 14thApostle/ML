@@ -13,7 +13,7 @@ This tutorial requires the following packages:
 - `scipy` version 0.10 or later: http://www.scipy.org/
 - `matplotlib` version 1.3 or later: http://matplotlib.org/
 - `scikit-learn` version 0.14 or later: http://scikit-learn.org
-- `ipython` version 2.0 or later, with notebook support: http://ipython.org
+- `tensorflow` version 1.9.0 or later: https://www.tensorflow.org/
 - `seaborn` version 0.5 or later
 
 The easiest way to get these is to use the [conda](https://store.continuum.io/) environment manager.
