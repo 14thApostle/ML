@@ -3,7 +3,8 @@
 
 ## Installation Notes
 
-You can skip all the installation steps if you can use https://colab.research.google.com/ to use these notebooks.
+You can skip all the installation steps if you can use https://colab.research.google.com/ to use these notebooks. 
+This just requires an okay internet connectivity
 
 This tutorial requires the following packages:
 
